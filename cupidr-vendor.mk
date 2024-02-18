@@ -46,6 +46,7 @@ PRODUCT_COPY_FILES += \
     vendor/realme/cupidr/proprietary/odm/etc/camera/config/imx682:$(TARGET_COPY_OUT_ODM)/etc/camera/config/imx682 \
     vendor/realme/cupidr/proprietary/odm/etc/camera/config/oplus_camera_algo_switch_config:$(TARGET_COPY_OUT_ODM)/etc/camera/config/oplus_camera_algo_switch_config \
     vendor/realme/cupidr/proprietary/odm/etc/camera/config/oplus_camera_aps_config:$(TARGET_COPY_OUT_ODM)/etc/camera/config/oplus_camera_aps_config \
+    vendor/realme/cupidr/proprietary/odm/etc/camera/config/oplus_camera_config:$(TARGET_COPY_OUT_ODM)/etc/camera/config/oplus_camera_config \
     vendor/realme/cupidr/proprietary/odm/etc/camera/config/ov02b10:$(TARGET_COPY_OUT_ODM)/etc/camera/config/ov02b10 \
     vendor/realme/cupidr/proprietary/odm/etc/camera/config/video_beauty_default_config:$(TARGET_COPY_OUT_ODM)/etc/camera/config/video_beauty_default_config \
     vendor/realme/cupidr/proprietary/odm/etc/camera/darksight/darksight_main.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/darksight/darksight_main.bin \
